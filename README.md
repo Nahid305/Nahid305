@@ -3,6 +3,7 @@
 🎓 Final Year AI & Data Science Student  
 💻 Python Developer | 🤖 AI/ML Enthusiast | 📊 Data Science Explorer  
 🌐 Portfolio: [nahid305.github.io/portfolio-site](https://nahid305.github.io/portfolio-site/)
+![Visitor Count](https://komarev.com/ghpvc/?username=Nahid305&color=blue)
 
 ## 🚀 Skills & Tools
 
