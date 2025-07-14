@@ -34,58 +34,73 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🚗 Driver Safety Kit</h3>
+      <h3 align="center">🧠 Semantic SLAM with YOLO</h3>
       <div align="center">
-        <a href="https://github.com/Nahid305/Driver_Safety_Kit" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5lY2R2bWZ4d2F4eGJtZzV1Y2R3eGp2eHh4b2RqZzZ6dGZ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="400" height="200"/>
+        <a href="https://github.com/Nahid305/semantic-slam-yolo" target="_blank">
+          <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" height="200"/>
         </a>
-        <p>AI + IoT system to monitor driver alertness and prevent accidents</p>
-        <span>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) 
-        ![IoT](https://img.shields.io/badge/-IoT-00979D?style=flat&logo=arduino)</span>
+        <p>Advanced computer vision system combining SLAM with object detection</p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
+        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=opencv" />
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">💼 CareerCraft AI</h3>
+      <h3 align="center">💼 Career Recommendation Engine</h3>
       <div align="center">
-        <a href="https://careerrecommendationengine.streamlit.app/" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Y1bW1nYzJ0a3lzZ3R6eGZ0b2R6dGZ6dGZ6dGZ6dGZ6dGZ6dGZ6dGZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200"/>
+        <a href="https://github.com/Nahid305/career_recommendation_engine" target="_blank">
+          <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200"/>
         </a>
-        <p>AI-powered career recommendation engine with ATS optimization</p>
-        <span>![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit) 
-        ![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=flat)</span>
+        <p>AI-powered career recommendation system with ATS optimization</p>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit" />
+        <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat" />
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📚 Picabo Telegram Bot</h3>
-      <div align="center">
-        <a href="https://github.com/Nahid305/Picabo-A-Telegram-Bot" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Y1bW1nYzJ0a3lzZ3R6eGZ0b2R6dGZ6dGZ6dGZ6dGZ6dGZ6dGZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jnQ9gZ0ij5Zqk/giphy.gif" width="400" height="200"/>
-        </a>
-        <p>Telegram bot providing study materials for engineering students</p>
-        <span>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) 
-        ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram)</span>
-      </div>
-    </td>
-    <td width="50%">
       <h3 align="center">🏦 Loan Eligibility Prediction</h3>
       <div align="center">
         <a href="https://github.com/Nahid305/Loan-Eligibility-Prediction" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Y1bW1nYzJ0a3lzZ3R6eGZ0b2R6dGZ6dGZ6dGZ6dGZ6dGZ6dGZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" height="200"/>
+          <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" height="200"/>
         </a>
-        <p>Machine learning model to predict loan approval chances</p>
-        <span>![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn) 
-        ![Pandas](https://img.shields.io/badge/-Pandas-2C2D72?style=flat&logo=pandas)</span>
+        <p>Machine learning model to predict loan approval probability</p>
+        <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikit-learn" />
+        <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas" />
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚗 Driver Safety Kit</h3>
+      <div align="center">
+        <a href="https://github.com/Nahid305/Driver_Safety_Kit" target="_blank">
+          <img src="https://media.giphy.com/media/jnQ9gZ0ij5Zqk/giphy.gif" width="400" height="200"/>
+        </a>
+        <p>AI + IoT system for real-time driver monitoring and accident prevention</p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
+        <img src="https://img.shields.io/badge/IoT-00979D?style=flat&logo=arduino" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%">
+      <h3 align="center">🖼️ Image Caption Generator</h3>
+      <div align="center">
+        <a href="https://github.com/Nahid305/Image-Caption-Generator" target="_blank">
+          <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="600" height="300"/>
+        </a>
+        <p>Deep learning model that generates descriptive captions for images</p>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow" />
+        <img src="https://img.shields.io/badge/CNN-5C3EE8?style=flat" />
+        <img src="https://img.shields.io/badge/LSTM-E44D30?style=flat" />
       </div>
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -106,8 +121,7 @@
 
 - 🏆 Published IEEE paper on "Predictive Maintenance and Safety Alerts for Vehicles using IoT & AI"
 - 🎖️ AWS Cloud Technical Essentials certified
-- 🎭 President of Cultural Club "Tarang" - Organized multiple intercollegiate events
-- 📈 8.14/10 CGPA in B.E. AI & Data Science
+- 📈 8.29/10 CGPA in B.E. AI & Data Science
 
 ---
 
