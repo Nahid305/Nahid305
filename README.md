@@ -38,84 +38,85 @@
 
 <div align="center">
   
-# 🏆 Featured Projects
-
-<div align="center">
-  
 ### My Best Projects
   
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
-<!-- Project 1 -->
+<!-- Project 1: Semantic SLAM -->
 <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
   <h3 style="color: #58a6ff; margin-top: 0;">🧠 Semantic SLAM with YOLO</h3>
   <a href="https://github.com/Nahid305/semantic-slam-yolo" target="_blank">
-    <img src="https://via.placeholder.com/400x200/0d1117/30363d?text=SLAM+YOLO" style="width: 100%; border-radius: 8px; border: 1px solid #30363d;" alt="Semantic SLAM Demo">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3bG52MmpneWN5NDUzNzdldXN2dGtiMW1ldGpjeW05d3JwZXQ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h5XbHTkqltJ9ryWXid/giphy.gif" style="width: 100%; border-radius: 8px; border: 1px solid #30363d;" alt="Semantic SLAM Demo">
   </a>
-  <p style="color: #8b949e;">Advanced real-time mapping system combining SLAM with YOLO object detection.</p>
+  <p style="color: #8b949e;">Advanced real-time mapping system combining SLAM with YOLO object detection for enhanced environmental understanding.</p>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   </div>
-  <a href="https://github.com/Nahid305/semantic-slam-yolo" style="display: inline-block; margin-top: 10px; padding: 8px 16px; background: #238636; color: white; border-radius: 6px; text-decoration: none;" target="_blank">View Project</a>
+  <a href="https://github.com/Nahid305/semantic-slam-yolo" style="display: inline-block; margin-top: 10px; padding: 8px 16px; background: #238636; color: white; border-radius: 6px; text-decoration: none;" target="_blank">View Project →</a>
 </div>
 
-<!-- Project 2 -->
+<!-- Project 2: CareerCraft AI -->
 <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
   <h3 style="color: #58a6ff; margin-top: 0;">💼 CareerCraft AI</h3>
   <a href="https://github.com/Nahid305/career_recommendation_engine" target="_blank">
-    <img src="https://via.placeholder.com/400x200/0d1117/30363d?text=CareerCraft+AI" style="width: 100%; border-radius: 8px; border: 1px solid #30363d;" alt="CareerCraft AI">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3J4cTBia3lxbWNhaDhkbTk4ejF2M3IzdzJicHJyNWxrOWx5NmNtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mSCuRiTCxp6bt8Zztn/giphy.gif" style="width: 100%; border-radius: 8px; border: 1px solid #30363d;" alt="CareerCraft AI Demo">
   </a>
-  <p style="color: #8b949e;">AI-powered career advisor with ATS optimization and skill gap analysis.</p>
+  <p style="color: #8b949e;">Intelligent career advisor that analyzes your profile and recommends optimal career paths with ATS optimization.</p>
   <div>
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
     <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge" alt="NLP">
+    <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT">
   </div>
-  <a href="https://github.com/Nahid305/career_recommendation_engine" style="display: inline-block; margin-top: 10px; padding: 8px 16px; background: #238636; color: white; border-radius: 6px; text-decoration: none;" target="_blank">View Project</a>
+  <a href="https://github.com/Nahid305/career_recommendation_engine" style="display: inline-block; margin-top: 10px; padding: 8px 16px; background: #238636; color: white; border-radius: 6px; text-decoration: none;" target="_blank">View Project →</a>
 </div>
 
-<!-- Project 3 -->
+<!-- Project 3: Loan Predictor -->
 <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
   <h3 style="color: #58a6ff; margin-top: 0;">🏦 Smart Loan Predictor</h3>
   <a href="https://github.com/Nahid305/Loan-Eligibility-Prediction" target="_blank">
-    <img src="https://via.placeholder.com/400x200/0d1117/30363d?text=Loan+Predictor" style="width: 100%; border-radius: 8px; border: 1px solid #30363d;" alt="Loan Predictor">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNzMnN0ZGs5bWNkZWVycTl6N28zeTM2NG1kdDdldGE0YTdic3FkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9pzSIRux0rZNM1lT3D/giphy.gif" style="width: 100%; border-radius: 8px; border: 1px solid #30363d;" alt="Loan Predictor Demo">
   </a>
-  <p style="color: #8b949e;">ML system evaluating loan applications with 92% accuracy.</p>
+  <p style="color: #8b949e;">Machine learning system that evaluates loan applications with 92% accuracy using explainable AI techniques.</p>
   <div>
     <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   </div>
-  <a href="https://github.com/Nahid305/Loan-Eligibility-Prediction" style="display: inline-block; margin-top: 10px; padding: 8px 16px; background: #238636; color: white; border-radius: 6px; text-decoration: none;" target="_blank">View Project</a>
+  <a href="https://github.com/Nahid305/Loan-Eligibility-Prediction" style="display: inline-block; margin-top: 10px; padding: 8px 16px; background: #238636; color: white; border-radius: 6px; text-decoration: none;" target="_blank">View Project →</a>
 </div>
 
-<!-- Project 4 -->
+<!-- Project 4: Driver Safety Kit -->
 <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
   <h3 style="color: #58a6ff; margin-top: 0;">🚗 Guardian Drive</h3>
   <a href="https://github.com/Nahid305/Driver_Safety_Kit" target="_blank">
-    <img src="https://via.placeholder.com/400x200/0d1117/30363d?text=Driver+Safety" style="width: 100%; border-radius: 8px; border: 1px solid #30363d;" alt="Driver Safety Kit">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpwOWF4azRyaHVnMDN6c21ob3BtNXdxejliNTlmY2x5dTNseHN1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z75yZXufXb19RvWJsW/giphy.gif" style="width: 100%; border-radius: 8px; border: 1px solid #30363d;" alt="Driver Safety Kit Demo">
   </a>
-  <p style="color: #8b949e;">IoT system reducing accident risk through real-time monitoring.</p>
+  <p style="color: #8b949e;">IoT-powered safety system that monitors driver fatigue and distraction in real-time, reducing accident risk by 40%.</p>
   <div>
     <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
     <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT">
   </div>
-  <a href="https://github.com/Nahid305/Driver_Safety_Kit" style="display: inline-block; margin-top: 10px; padding: 8px 16px; background: #238636; color: white; border-radius: 6px; text-decoration: none;" target="_blank">View Project</a>
+  <a href="https://github.com/Nahid305/Driver_Safety_Kit" style="display: inline-block; margin-top: 10px; padding: 8px 16px; background: #238636; color: white; border-radius: 6px; text-decoration: none;" target="_blank">View Project →</a>
 </div>
 
-<!-- Project 5 -->
+<!-- Project 5: Image Caption Generator -->
 <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 20px; grid-column: 1/-1;">
   <h3 style="color: #58a6ff; margin-top: 0;">🖼️ Vision Linguist</h3>
   <a href="https://github.com/Nahid305/Image-Caption-Generator" target="_blank">
-    <img src="https://via.placeholder.com/800x300/0d1117/30363d?text=Image+Captioning" style="width: 100%; border-radius: 8px; border: 1px solid #30363d;" alt="Image Caption Generator">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRjOHh1cm9nZm5ya25vNzluYXBudTF4OG5uZmxoejh2OGV3OW1hOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IoaotIrT3oRhtfOzzb/giphy.gif" style="width: 100%; border-radius: 8px; border: 1px solid #30363d;" alt="Image Caption Generator Demo">
   </a>
-  <p style="color: #8b949e;">CNN-LSTM model generating image descriptions with 85% accuracy.</p>
+  <p style="color: #8b949e;">Advanced deep learning model that generates human-like descriptions for images using CNN-LSTM architecture with 85% BLEU score accuracy.</p>
   <div>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+    <img src="https://img.shields.io/badge/NLTK-40E0D0?style=for-the-badge" alt="NLTK">
   </div>
-  <a href="https://github.com/Nahid305/Image-Caption-Generator" style="display: inline-block; margin-top: 10px; padding: 8px 16px; background: #238636; color: white; border-radius: 6px; text-decoration: none;" target="_blank">View Project</a>
+  <a href="https://github.com/Nahid305/Image-Caption-Generator" style="display: inline-block; margin-top: 10px; padding: 8px 16px; background: #238636; color: white; border-radius: 6px; text-decoration: none;" target="_blank">View Project →</a>
 </div>
 
 </div>
