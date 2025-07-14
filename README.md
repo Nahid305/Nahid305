@@ -112,12 +112,11 @@
 </style>
 
 <div align="center">
-  
-## 🏆 My Best Work
-  
+  <h2>🏆 My Best Work</h2>
 </div>
 
 <table>
+  <!-- Row 1 -->
   <tr>
     <td width="50%">
       <div align="center" class="project-card">
@@ -127,9 +126,9 @@
         </a>
         <p class="project-desc">Advanced real-time mapping system combining Simultaneous Localization and Mapping with YOLO object detection for enhanced environmental understanding.</p>
         <div class="tech-badges">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
         </div>
         <a href="https://github.com/Nahid305/semantic-slam-yolo" class="view-button" target="_blank">View Project →</a>
       </div>
@@ -140,16 +139,18 @@
         <a href="https://github.com/Nahid305/career_recommendation_engine" target="_blank">
           <img class="project-image" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200" alt="CareerCraft AI Demo"/>
         </a>
-        <p class="project-desc">Intelligent career advisor that analyzes your profile and recommends optimal career paths with ATS optimization and skill gap analysis.</p>
+        <p class="project-desc">Intelligent career advisor that analyzes resumes and LinkedIn profiles to recommend optimal career paths with ATS optimization.</p>
         <div class="tech-badges">
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-          <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge" />
-          <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+          <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge" alt="NLP"/>
+          <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
         </div>
         <a href="https://github.com/Nahid305/career_recommendation_engine" class="view-button" target="_blank">View Project →</a>
       </div>
     </td>
   </tr>
+  
+  <!-- Row 2 -->
   <tr>
     <td width="50%">
       <div align="center" class="project-card">
@@ -159,9 +160,9 @@
         </a>
         <p class="project-desc">Machine learning system that evaluates loan applications with 92% accuracy using ensemble methods and explainable AI techniques.</p>
         <div class="tech-badges">
-          <img src="https://img.shields.io/badge/Random_Forest-00A86B?style=for-the-badge" />
-          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-          <img src="https://img.shields.io/badge/Shap-FF6600?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Random_Forest-00A86B?style=for-the-badge" alt="Random Forest"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+          <img src="https://img.shields.io/badge/Shap-FF6600?style=for-the-badge" alt="SHAP"/>
         </div>
         <a href="https://github.com/Nahid305/Loan-Eligibility-Prediction" class="view-button" target="_blank">View Project →</a>
       </div>
@@ -170,30 +171,32 @@
       <div align="center" class="project-card">
         <h3 class="project-title">🚗 Guardian Drive</h3>
         <a href="https://github.com/Nahid305/Driver_Safety_Kit" target="_blank">
-          <img class="project-image" src="driver_safety.gif" width="400" height="200" alt="Driver Safety Kit Demo"/>
+          <img class="project-image" src="https://media.giphy.com/media/jnQ9gZ0ij5Zqk/giphy.gif" width="400" height="200" alt="Driver Safety Kit Demo"/>
         </a>
         <p class="project-desc">IoT-powered safety system that monitors driver fatigue and distraction in real-time, reducing accident risk by 40% in tests.</p>
         <div class="tech-badges">
-          <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-          <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+          <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+          <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT"/>
         </div>
         <a href="https://github.com/Nahid305/Driver_Safety_Kit" class="view-button" target="_blank">View Project →</a>
       </div>
     </td>
   </tr>
+  
+  <!-- Row 3 -->
   <tr>
-    <td colspan="2" width="100%">
+    <td colspan="2">
       <div align="center" class="project-card">
         <h3 class="project-title">🖼️ Vision Linguist</h3>
         <a href="https://github.com/Nahid305/Image-Caption-Generator" target="_blank">
-          <img class="project-image" src="image_caption.gif" width="600" height="300" alt="Image Caption Generator Demo"/>
+          <img class="project-image" src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="600" height="300" alt="Image Caption Generator Demo"/>
         </a>
         <p class="project-desc">Advanced deep learning model that generates human-like descriptions for images using CNN-LSTM architecture with 85% BLEU score accuracy.</p>
         <div class="tech-badges">
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-          <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-          <img src="https://img.shields.io/badge/NLTK-40E0D0?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+          <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+          <img src="https://img.shields.io/badge/NLTK-40E0D0?style=for-the-badge" alt="NLTK"/>
         </div>
         <a href="https://github.com/Nahid305/Image-Caption-Generator" class="view-button" target="_blank">View Project →</a>
       </div>
@@ -206,7 +209,6 @@
     View All Projects →
   </a>
 </div>
-
 
 ---
 
