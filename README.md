@@ -17,20 +17,6 @@
 
 ---
 
-## 🚀 Core Competencies
-
-<div align="center">
-  
-| **Area**            | **Skills** |
-|---------------------|------------|
-| **AI/ML Development** | Python • Pandas • NumPy • Generative AI • NLP |
-| **Data Engineering** | SQL • Power BI • Data Cleaning • ATS Optimization |
-| **Cloud & Automation** | AWS • Heroku • Selenium • IoT Systems |
-| **Full Stack AI**    | Streamlit • REST APIs • Chatbot Development |
-
-</div>
-
----
 
 ## 🛠️ Verified Tech Stack
 
@@ -90,20 +76,6 @@
 | [![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)](https://example.com) | [Verify](https://example.com) | LLMs • Prompt Engineering • AI Content Generation |
 | [![IEEE Paper](https://img.shields.io/badge/IEEE_Published-00629B?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org) | [DOI](https://doi.org) | IoT • Predictive Maintenance • AI Integration |
 | [![Data Science](https://img.shields.io/badge/Data_Science-01AEF2?style=for-the-badge)](https://example.com) | [Verify](https://example.com) | Power BI • Data Cleaning • Visualization |
-
-</div>
-
----
-
-## 🚀 Highlight Projects
-
-<div align="center">
-
-| Project | Tech Used | Live Demo |
-|---------|-----------|-----------|
-| **[Driver Safety Kit](https://github.com/Nahid305/Driver_Safety_Kit)** | Python • IoT • AI | [![Demo](https://img.shields.io/badge/View_Demo-20C20E?style=flat-square)](https://example.com) |
-| **[CareerCraft AI](https://careerrecommendationengine.streamlit.app/)** | Streamlit • NLP • ATS | [![Open](https://img.shields.io/badge/Open_App-FF4B4B?style=flat-square)](https://careerrecommendationengine.streamlit.app/) |
-| **[Picabo Telegram Bot](https://github.com/Nahid305/Picabo-A-Telegram-Bot)** | Python • Heroku | [![Try](https://img.shields.io/badge/Try_Bot-26A5E4?style=flat-square)](https://t.me/yourbot) |
 
 </div>
 
