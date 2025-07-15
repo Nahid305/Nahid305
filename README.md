@@ -66,21 +66,6 @@
 
 ---
 
-## 🏆 Certifications & Achievements
-
-<div align="center">
-  
-| Credential | Verification | Skills Demonstrated |
-|------------|--------------|---------------------|
-| [![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com) | [Verify](https://www.credly.com) | Cloud Architecture • EC2/S3 • Security |
-| [![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)](https://example.com) | [Verify](https://example.com) | LLMs • Prompt Engineering • AI Content Generation |
-| [![IEEE Paper](https://img.shields.io/badge/IEEE_Published-00629B?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org) | [DOI](https://doi.org) | IoT • Predictive Maintenance • AI Integration |
-| [![Data Science](https://img.shields.io/badge/Data_Science-01AEF2?style=for-the-badge)](https://example.com) | [Verify](https://example.com) | Power BI • Data Cleaning • Visualization |
-
-</div>
-
----
-
 ## 📫 Let's Collaborate!
 
 <div align="center">
