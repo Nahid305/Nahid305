@@ -13,7 +13,7 @@
 🎓 Final Year B.E. in AI & Data Science @ DY Patil Institute of Technology  
 💡 Passionate about solving real-world problems with cutting-edge technology  
 🌱 Currently diving deep into: Advanced NLP & Generative AI  
-⚡ Fun fact: Built my first IoT project at 15 (before I could legally drive!)  
+⚙️ Fun Fact: I don't fear the AI uprising... I just hope it comments my code better than I do. 😂  
 
 ---
 
@@ -23,53 +23,48 @@
   
 | **Area**            | **Skills** |
 |---------------------|------------|
-| **Machine Learning** | Predictive Modeling • Computer Vision • NLP • Time Series Analysis |
-| **Data Engineering** | ETL Pipelines • Feature Engineering • Big Data Processing |
-| **Full Stack AI**    | End-to-end ML Systems • API Development • Cloud Deployment |
-| **Emerging Tech**    | IoT Systems • Edge AI • Generative Models • MLOps |
+| **AI/ML Development** | Python • Pandas • NumPy • Generative AI • NLP |
+| **Data Engineering** | SQL • Power BI • Data Cleaning • ATS Optimization |
+| **Cloud & Automation** | AWS • Heroku • Selenium • IoT Systems |
+| **Full Stack AI**    | Streamlit • REST APIs • Chatbot Development |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Verified Tech Stack
 
 ### 🤖 AI/ML & Data Science
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Beautiful_Soup-178D65?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge">
 </div>
 
-### 🗃️ Data & Cloud
+### 📊 Data & Visualization
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/Data_Cleaning-20C20E?style=for-the-badge">
+</div>
+
+### ☁️ Cloud & Deployment
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-</div>
-
-### 🌐 Web Development
-<div align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge">
 </div>
 
-### ⚙️ DevOps & Tools
+### ⚙️ Automation & IoT
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/IoT-999999?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram">
 </div>
 
 ---
@@ -79,38 +74,36 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nahid305&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid305&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nahid305&theme=radical&hide_border=true" alt="Nahid's streak"/>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Nahid305&theme=radical&no-frame=true&row=2&column=4" alt="Nahid's trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nahid305&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🏆 Notable Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **Predictive Maintenance System** | IEEE-published IoT+AI solution for vehicles | Python, TensorFlow, AWS IoT | [Paper](https://ieeexplore.ieee.org) • [Code](https://github.com) |
-| **Health Monitoring Dashboard** | Real-time patient vitals visualization | Streamlit, PyTorch, MongoDB | [Demo](https://example.com) |
-| **Smart Home Automation** | Voice-controlled IoT ecosystem | Python, Arduino, MQTT | [Repo](https://github.com) |
-
-</div>
-
----
-
-## 📜 Certifications
+## 🏆 Certifications & Achievements
 
 <div align="center">
   
-| Certification | Organization | Badge |
-|--------------|-------------|-------|
-| AWS Certified Cloud Practitioner | Amazon Web Services | <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="60"> |
-| IBM Data Science Professional | IBM | <img src="https://images.credly.com/size/110x110/images/5c8b0ab9-e8b2-4a9a-9a6e-7d18a4b68b16/Professional_Certificate_-_IBM_Data_Science.png" width="60"> |
+| Credential | Verification | Skills Demonstrated |
+|------------|--------------|---------------------|
+| [![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com) | [Verify](https://www.credly.com) | Cloud Architecture • EC2/S3 • Security |
+| [![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)](https://example.com) | [Verify](https://example.com) | LLMs • Prompt Engineering • AI Content Generation |
+| [![IEEE Paper](https://img.shields.io/badge/IEEE_Published-00629B?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org) | [DOI](https://doi.org) | IoT • Predictive Maintenance • AI Integration |
+| [![Data Science](https://img.shields.io/badge/Data_Science-01AEF2?style=for-the-badge)](https://example.com) | [Verify](https://example.com) | Power BI • Data Cleaning • Visualization |
+
+</div>
+
+---
+
+## 🚀 Highlight Projects
+
+<div align="center">
+
+| Project | Tech Used | Live Demo |
+|---------|-----------|-----------|
+| **[Driver Safety Kit](https://github.com/Nahid305/Driver_Safety_Kit)** | Python • IoT • AI | [![Demo](https://img.shields.io/badge/View_Demo-20C20E?style=flat-square)](https://example.com) |
+| **[CareerCraft AI](https://careerrecommendationengine.streamlit.app/)** | Streamlit • NLP • ATS | [![Open](https://img.shields.io/badge/Open_App-FF4B4B?style=flat-square)](https://careerrecommendationengine.streamlit.app/) |
+| **[Picabo Telegram Bot](https://github.com/Nahid305/Picabo-A-Telegram-Bot)** | Python • Heroku | [![Try](https://img.shields.io/badge/Try_Bot-26A5E4?style=flat-square)](https://t.me/yourbot) |
 
 </div>
 
@@ -131,11 +124,8 @@
   <a href="https://github.com/Nahid305" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@nahidansari" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=Nahid305&label=PROFILE+VIEWS&color=20C20E&style=for-the-badge" alt="profile views counter"/>
+</div>
+
+<div align="center" style="margin-top:20px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9jY3JvZzRnb3V4dWx5Z2N6Z3J0eGZ6dGZ2d3BqZzJmY3JmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="150"/>
 </div>
