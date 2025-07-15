@@ -18,7 +18,7 @@
 ---
 
 
-## 🛠️ Verified Tech Stack
+## 🛠️ Tech Stack
 
 ### 🤖 AI/ML & Data Science
 <div align="center">
