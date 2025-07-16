@@ -79,20 +79,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-  
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| 🚗 **Smart Loan Predictor** | ML model predicting loan approval with 95% accuracy | Python, Scikit-learn, Streamlit | [Demo](https://github.com/Nahid305) |
-| 🖼️ **Image Caption Generator** | Deep learning model generating captions for images | TensorFlow, CNN, RNN | [Demo](https://github.com/Nahid305) |
-| 🎯 **Career Craft AI** | AI-powered career guidance system | Python, NLP, Flask | [Demo](https://github.com/Nahid305) |
-| 🛡️ **Driver Safety System** | Real-time drowsiness detection using computer vision | OpenCV, Deep Learning | [Demo](https://github.com/Nahid305) |
-| 🗺️ **Semantic SLAM** | Simultaneous Localization and Mapping with semantic understanding | Python, ROS, Computer Vision | [Demo](https://github.com/Nahid305) |
-
-</div>
-
 ### 🔥 Recent Achievements
 - 🎖️ **95% Accuracy** in Smart Loan Prediction Model
 - 🏆 **Published Research** on Computer Vision Applications
@@ -122,14 +108,6 @@
   </a>
 </div>
 
-### 🗣️ Language Breakdown
-```text
-Python       68.26% ████████████
-CSS          15.21% ████
-HTML         11.11% ███
-JavaScript    5.40% █
-Batchfile     0.03% 
-```
 
 ---
 
