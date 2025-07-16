@@ -18,20 +18,6 @@
 🔍 Always exploring: **Computer Vision, MLOps, and Cloud Computing**  
 ⚙️ Fun Fact: I don't fear the AI uprising... I just hope it comments my code better than I do! 😂  
 
-### 🎯 What I'm Working On
-- 🤖 Building intelligent systems that make a difference
-- 📊 Creating data-driven solutions for complex problems
-- 🌐 Exploring the intersection of AI and real-world applications
-- 📚 Contributing to open-source AI projects
-- 🔬 Researching cutting-edge ML algorithms and their applications
-
-### 💼 Professional Interests
-- 🧠 **Artificial Intelligence & Machine Learning**
-- 👁️ **Computer Vision & Image Processing**
-- 🗣️ **Natural Language Processing & Generative AI**
-- 📊 **Data Science & Analytics**
-- ☁️ **MLOps & Cloud Computing**  
-
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -76,14 +62,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
 </div>
-
----
-
-### 🔥 Recent Achievements
-- 🎖️ **95% Accuracy** in Smart Loan Prediction Model
-- 🏆 **Published Research** on Computer Vision Applications
-- 📈 **1000+ Lines** of Open Source Contributions
-- 🌟 **Featured Project** in University Tech Showcase
 
 ---
 
