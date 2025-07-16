@@ -71,8 +71,28 @@ JavaScript    5.40% █
 Batchfile     0.03% 
 
 
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Nahid305&theme=radical&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies"/> </div>
+---
 
-📫 Let's Connect!
-<div align="center"> <a href="https://www.linkedin.com/in/nahid-ansari-4b151a24b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:nahidansari509@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://nahid305.github.io/portfolio-site/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-20C20E?style=for-the-badge&logo=About.me&logoColor=white"/> </a> <a href="https://github.com/Nahid305" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div><div align="center" style="margin-top:20px"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9jY3JvZzRnb3V4dWx5Z2N6Z3J0eGZ6dGZ2d3BqZzJmY3JmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="150"/> </div> ```
+## 📫 Let's Connect!
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/nahid-ansari-4b151a24b/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
+  <a href="mailto:nahidansari509@gmail.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a> 
+  <a href="https://nahid305.github.io/portfolio-site/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Portfolio-20C20E?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a> 
+  <a href="https://github.com/Nahid305" target="_blank"> 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a> 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9jY3JvZzRnb3V4dWx5Z2N6Z3J0eGZ6dGZ2d3BqZzJmY3JmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="150"/>
+</div>
+
