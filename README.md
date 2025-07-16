@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Nahid Ansari! 
+# 👋 Hello World, I'm Nahid Ansari!
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Nahid305&label=PROFILE+VIEWS&color=20C20E&style=for-the-badge" alt="Nahid's profile views"/> 
@@ -17,7 +17,6 @@
 
 ---
 
-
 ## 🛠️ Tech Stack
 
 ### 🤖 AI/ML & Data Science
@@ -25,17 +24,17 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Beautiful_Soup-178D65?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 </div>
 
 ### 📊 Data & Visualization
 <div align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-  <img src="https://img.shields.io/badge/Data_Cleaning-20C20E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
 </div>
 
 ### ☁️ Cloud & Deployment
@@ -43,14 +42,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge">
-</div>
-
-### ⚙️ Automation & IoT
-<div align="center">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/IoT-999999?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
 ---
@@ -58,31 +50,29 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nahid305&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid305&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nahid305&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/Nahid305">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nahid305&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid305&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  </a>
 </div>
-
----
-
-## 📫 Let's Collaborate!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nahid-ansari-4b151a24b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nahidansari509@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://nahid305.github.io/portfolio-site/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-20C20E?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Nahid305" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Nahid305">
+    <img src="https://streak-stats.demolab.com?user=Nahid305&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
   </a>
 </div>
 
-<div align="center" style="margin-top:20px">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9jY3JvZzRnb3V4dWx5Z2N6Z3J0eGZ6dGZ2d3BqZzJmY3JmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="150"/>
-</div>
+### 🗣️ Language Breakdown
+```text
+Python       68.26% ████████████
+CSS          15.21% ████
+HTML         11.11% ███
+JavaScript    5.40% █
+Batchfile     0.03% 
+
+
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Nahid305&theme=radical&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies"/> </div>
+
+📫 Let's Connect!
+<div align="center"> <a href="https://www.linkedin.com/in/nahid-ansari-4b151a24b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:nahidansari509@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://nahid305.github.io/portfolio-site/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-20C20E?style=for-the-badge&logo=About.me&logoColor=white"/> </a> <a href="https://github.com/Nahid305" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div><div align="center" style="margin-top:20px"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9jY3JvZzRnb3V4dWx5Z2N6Z3J0eGZ6dGZ2d3BqZzJmY3JmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="150"/> </div> ```
